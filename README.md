@@ -1,4 +1,4 @@
-# Hi, I'm Paul Otaye 👋
+# Hi, I'm Paul! A Dedicated Cybersecurity Enthusiast 👋
 
 I'm a Cybersecurity Analyst with 4 years of experience in vulnerability analysis and forensic investigations. I have a strong foundation in threat vulnerability assessments, real-time analysis, and compliance matrix construction aligned with NIST standards.
 
