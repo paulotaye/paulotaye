@@ -2,6 +2,11 @@
 
 I'm a Cybersecurity Analyst with 4 years of experience in vulnerability analysis and forensic investigations. I have a strong foundation in threat vulnerability assessments, real-time analysis, and compliance matrix construction aligned with NIST standards.
 
+### 🚀Cybersecurity Projects
+- **[Created a Live SOC/Honeynet in Azure](https://github.com/paulotaye/Azure_Cloud-SOC)**
+- **Active Directory Security**: Implemented and managed AD security protocols to ensure compliance and mitigate risks.
+- **SQL Query Optimization**: Developed complex SQL queries for efficient data retrieval and analysis.
+
 ### 🔧 Skills
 - **Cybersecurity**: Threat Vulnerability Assessments, Incident Detection & Response, Forensic Investigations
 - **Technologies**: SIEM, Endpoint Security, Network Security
@@ -12,10 +17,6 @@ I'm a Cybersecurity Analyst with 4 years of experience in vulnerability analysis
 ### 📚 Currently Learning
 - Advanced Incident Detection & Response
 - Python for Cybersecurity
-
-### 🚀 Projects
-- **Active Directory Security**: Implemented and managed AD security protocols to ensure compliance and mitigate risks.
-- **SQL Query Optimization**: Developed complex SQL queries for efficient data retrieval and analysis.
 
 ### 📫 Contact
 - **Email**: [paulotaye@gmail.com](mailto:paulotaye@gmail.com)
